@@ -1,5 +1,5 @@
 {
-  "name": "socq-youtube-transcript-node-example",
+  "name": "socq-youtube-transcripts-node-example",
   "private": true,
   "type": "module",
   "scripts": {

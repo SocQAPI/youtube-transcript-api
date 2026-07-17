@@ -5,27 +5,31 @@
     "status": "succeeded",
     "result_count": 1,
     "error_message": null,
-    "credits_amount": 1,
     "created_time": "2026-07-17T08:00:00Z",
     "finished_time": "2026-07-17T08:00:03Z",
     "results": {
-      "limit": 50,
+      "limit": 100,
       "next_cursor": null,
       "has_more": false,
       "items": [
         {
-          "id": "public-example-video",
+          "id": "EXAMPLE_RECORD_ID",
           "platform": "youtube",
           "resource": "transcripts",
           "type": "transcript",
-          "url": "https://www.youtube.com/watch?v=arj7oStGLkU",
+          "url": "https://example.com/youtube/transcripts/public-record",
           "metrics": {},
           "media": [],
           "created_at": null,
           "collected_at": "2026-07-17T08:00:02Z",
-          "extra": {
-            "language": "en"
-          }
+          "extra": {},
+          "title": "Example public video",
+          "text": "Synthetic plain-text transcript content.",
+          "language": "en",
+          "available_languages": [
+            "en"
+          ],
+          "format": "plaintext"
         }
       ]
     }
