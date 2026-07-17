@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "endpointId": "youtube-transcripts",
+  "templateVersion": "1.0.0",
+  "method": "POST",
+  "path": "/v1/youtube/transcripts",
+  "landingPage": "https://socq.ai/apis/youtube/transcripts",
+  "generatedFrom": "SocQAPI/socq-example-template"
+}

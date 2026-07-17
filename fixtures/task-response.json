@@ -1,0 +1,33 @@
+{
+  "code": 200,
+  "data": {
+    "task_id": "EXAMPLE_TASK_ID",
+    "status": "succeeded",
+    "result_count": 1,
+    "error_message": null,
+    "credits_amount": 1,
+    "created_time": "2026-07-17T08:00:00Z",
+    "finished_time": "2026-07-17T08:00:03Z",
+    "results": {
+      "limit": 50,
+      "next_cursor": null,
+      "has_more": false,
+      "items": [
+        {
+          "id": "public-example-video",
+          "platform": "youtube",
+          "resource": "transcripts",
+          "type": "transcript",
+          "url": "https://www.youtube.com/watch?v=arj7oStGLkU",
+          "metrics": {},
+          "media": [],
+          "created_at": null,
+          "collected_at": "2026-07-17T08:00:02Z",
+          "extra": {
+            "language": "en"
+          }
+        }
+      ]
+    }
+  }
+}

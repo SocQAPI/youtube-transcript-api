@@ -1,0 +1,8 @@
+{
+  "code": 200,
+  "data": {
+    "task_id": "EXAMPLE_TASK_ID",
+    "status": "queued",
+    "created_time": "2026-07-17T08:00:00Z"
+  }
+}

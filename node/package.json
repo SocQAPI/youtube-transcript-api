@@ -1,0 +1,11 @@
+{
+  "name": "socq-youtube-transcript-node-example",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
